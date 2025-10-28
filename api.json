@@ -1,5 +1,5 @@
 {
-  "name": "<img src=x onerror=\"alert('XSS 💣 in name!')\">",
-  "description": "<img src=x onerror=\"alert('XSS 💣 in description!')\">",
-  "image": "<img src=x onerror=alert('XSS')>"
+  "name": "<img src=x onerror=\"alert('Attaque XSS 💣 in name! , Votre PC EST Infecté 👿')\">",
+  "description": "<img src=x onerror=\"alert('Attaque XSS 💣 in description! : 🛟une solution existe')\">",
+  "image": "<img src=x onerror=\"alert('Attaque XSS 💣 in image! : lire le corrigé 🥷')\">"
 }
