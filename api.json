@@ -1,0 +1,5 @@
+{
+  "name": "<img src=x onerror=\"alert('XSS 💣 in name!')\">",
+  "description": "<img src=x onerror=\"alert('XSS 💣 in description!')\">",
+  "image": "<img src=x onerror=alert('XSS')>"
+}
